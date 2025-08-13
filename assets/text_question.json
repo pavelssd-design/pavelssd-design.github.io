@@ -1,0 +1,92 @@
+{
+    "title": "<span id='market_name'></span> Customer Survey",
+    "question_list": [
+        {
+            "question_number": "Question 1 of 8",
+            "question": "How did you find out about this promotion for The North Face Borealis backpack?",
+            "answers": [
+                "Social media",
+                "In-store advertisement",
+                "Recommendation from a friend or family member",
+                "Online search",
+                "Other source"
+            ]
+        },
+        {
+            "question_number": "Question 2 of 8",
+            "question": "Which criterion is most important to you when choosing a backpack?",
+            "answers": [
+                "Quality and durability",
+                "Comfort and support",
+                "Design and style",
+                "Eco-friendly and sustainable materials",
+                "Price"
+            ]
+        },
+        {
+            "question_number": "Question 3 of 8",
+            "question": "How often do you purchase backpacks or similar products?",
+            "answers": [
+                "Several times a year",
+                "Once a year",
+                "Less often than once a year",
+                "This is my first purchase"
+            ]
+        },
+        {
+            "question_number": "Question 4 of 8",
+            "question": "Which factors influence your decision when buying a product?",
+            "answers": [
+                "Discounts and promotions",
+                "Positive reviews",
+                "New collections",
+                "Recommendations from influencers or bloggers",
+                "Media advertising"
+            ]
+        },
+        {
+            "question_number": "Question 5 of 8",
+            "question": "How would you rate your shopping experience at <span id='market_name'></span> (in-store or online)?",
+            "answers": [
+                "Very positive",
+                "Positive",
+                "Neutral",
+                "Negative",
+                "Very negative"
+            ]
+        },
+        {
+            "question_number": "Question 6 of 8",
+            "question": "What do you think about The North Face’s eco-friendly initiatives (e.g., sustainable materials, responsible production)?",
+            "answers": [
+                "I fully support them",
+                "I support them, but other factors are also important to me",
+                "Neutral",
+                "I don’t mind either way",
+                "I am against these initiatives"
+            ]
+        },
+        {
+            "question_number": "Question 7 of 8",
+            "question": "Which type of backpack interests you the most?",
+            "answers": [
+                "Hiking and outdoor backpacks",
+                "Everyday-use backpacks",
+                "Travel and adventure backpacks",
+                "School or work backpacks",
+                "Special editions (limited series)"
+            ]
+        },
+        {
+            "question_number": "Question 8 of 8",
+            "question": "What additional services or improvements would you like to see at <span id='market_name'></span>?",
+            "answers": [
+                "Free delivery and returns",
+                "Loyalty programmes",
+                "More information about materials and product origins",
+                "A wider selection of sustainable products",
+                "Better in-store advice"
+            ]
+        }
+    ]
+}
